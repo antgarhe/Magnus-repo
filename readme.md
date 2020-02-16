@@ -1,3 +1,3 @@
 ### This project prints a Hello world on screen.
 
-### Student's name: Ah! guess it!
+### Student's name: I was Kidding, I'm Daniel ;P
